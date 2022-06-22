@@ -1,5 +1,4 @@
 thir-resolusi
--mencoba membuat Repository
 -memhami penggunaan github
 -membuat forum diskusi
 -belajar git
