@@ -2,3 +2,5 @@ Rencana Belajar
 -Belajar JavaScript
 -Belajar python
 -Belajar php framework
+  ^ Laravel
+-Mencoba membuat Website
